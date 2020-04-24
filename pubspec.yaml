@@ -1,16 +1,16 @@
 name: neeko
 description: Simple video player widget based on video_player, inspired by youtube_player_flutter. Neeko supports more actions such as timeline control, screen orientation control and so on.
-version: 0.0.6
+version: 0.0.7
 author: JarvanMo <jarvan.mo@gmail.com>
 homepage: https://github.com/OpenFlutter/neeko
 
 environment:
-  sdk: ">=2.2.2 <3.0.0"
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  video_player: 0.10.5
+  video_player: 0.10.8+1
 
 dev_dependencies:
   flutter_test:
